@@ -23,3 +23,10 @@ Interactive dashboard to visualise predictions and risk labels (High / Medium / 
 - UK Police Data Portal  
 - Office for National Statistics (ONS)  
 - English Indices of Deprivation (IMD)
+
+## Stremlit Dashboard Preview
+<img width="937" height="451" alt="image" src="https://github.com/user-attachments/assets/f88cadbb-1928-4042-8b0e-961eab7ea347" />
+<img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/2a329760-435a-4739-b98c-4e88169efe80" />
+<img width="941" height="502" alt="image" src="https://github.com/user-attachments/assets/8bf423dd-5841-41a0-8d74-3c45d6675454" />
+<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/a60a962f-5716-4e22-ac28-2f84d86950ff" />
+<img width="934" height="498" alt="image" src="https://github.com/user-attachments/assets/e87a16a1-4683-4b89-a85f-4e63fdb8070c" />
