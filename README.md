@@ -20,10 +20,9 @@ Interactive dashboard to visualise predictions and risk labels (High / Medium / 
 - matplotlib  
 
 ## Data Sources
-- UK Police Data Portal  
-- Office for National Statistics (ONS)  
-- English Indices of Deprivation (IMD)
-
+- UK Police Data Portal – https://data.police.uk
+- Office for National Statistics (ONS) – https://www.ons.gov.uk
+- English Indices of Deprivation (IMD) – https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019
 ## Stremlit Dashboard Preview
 The Streamlit application allows users to select police force areas, crime categories, and forecasting parameters to generate predicted crime counts and risk levels for future periods.
 <img width="937" height="451" alt="image" src="https://github.com/user-attachments/assets/f88cadbb-1928-4042-8b0e-961eab7ea347" />
